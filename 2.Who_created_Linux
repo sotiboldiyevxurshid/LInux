@@ -1,0 +1,25 @@
+Linuxni kim yaratgan
+
+
+Keling, Linuxni kim yaratganini va nima uchun Linux yadrosi va operatsion tizimlari bugungi kunda mavjudligini ko'rib chiqaylik.
+
+
+Linux yadrosi Linus Torvalds ismli fin dastur muhandisi tomonidan yaratilgan.
+
+Linux yadrosi nima uchun yaratilgan?
+
+
+1991 yilda Linus Torvalds universitetda UNIX bo'yicha tahsil olayotgan edi, u erda Minix (akademik muhitda qo'llanilishi uchun UNIXning kichik versiyasi) deb nomlangan maxsus o'quv, eksperimental operatsion tizimdan foydalandi. Biroq, Minixning o'ziga xos cheklovlari bor edi va Linus yaxshiroq narsani yaratishi mumkinligini his qildi. Shuning uchun u Linux deb nomlanuvchi Minix versiyasini ishlab chiqdi. Linux boshidanoq ochiq manba edi.
+
+
+Linux - bu Linus tomonidan ishlab chiqilgan yadro. Yadro foydali operatsion tizimni yaratish uchun GNU loyihasining tizim yordam dasturlari va kutubxonalari bilan birlashtirilgan. Ba'zan odamlar Linuxni GNU/Linux deb atashadi, chunki unda GNU loyihasining tizim yordam dasturlari va kutubxonalari mavjud. Linus Torvalds butun Linux operatsion tizimini emas, balki Linux yadrosini yaratish uchun hisoblangan.
+
+
+Shuni esda tutingki, Linux endi Linux distribyutorlarida turli maqsadlarda foydalanish uchun paketlangan bo'lib, ular ba'zan o'zgartiriladigan yadroni va turli talablarga moslashtirilgan turli xil dasturiy paketlarni o'z ichiga oladi:
+
+- Server
+- Ish stoli
+- Ish stantsiyasi
+- Routerlar
+- Murakkab qurilgan qurilmalar.
+- Mobil telefonlar

@@ -1,0 +1,29 @@
+Linuxni qayerdan yuklab olsam bo'ladi.
+
+
+Bu yerda siz to'g'ridan-to'g'ri eng mashhur Linux OS ning bepul yuklab olish sahifasiga havolalarni topasiz.
+
+
+Men quyidagi eng mashhur Linux distributivlarini tavsiya qilaman:
+
+1. Debian Linux - Debian barqarorlik va xavfsizlikka e'tibor qaratadi va Ubuntu kabi ko'plab boshqa tarqatishlar uchun asos sifatida ishlatiladi. Debian barqarorligi serverdan foydalanish uchun yaxshi.
+2. Alpine Linux - uslubiy bo'lgan, yorqin Linux distributiv, musl libc va busybox asosida tuzilgan. Uning asosida systemd yoki GNU modullar mavjud emas.
+3. Fedora Linux - Fedora loyihasi tomonidan ishlab chiqilgan Red Hat linux-ga asoslangan Linux distributivi. Fedora ish stoli va noutbukda, shu jumladan tizim administratorlari uchun ham yaxshi. RHEL relizlari Fedora Linux relizlariga asoslangan.
+4. Rocky Linux -  bu Red Hat Enterprise Linux bilan 100% xatoliklarga mos keladigan ochiq manbali korporativ operatsion tizim. Bu serverdan foydalanish uchun yaxshi.
+5. Ubuntu Linux - Ubuntu dastlab Debian Linux distributiviga asoslangan. Ubuntu asosan ish stoli uchun mo'ljallangan, ammo netbuklar va server nashrlari ham mavjud.
+
+Korxona Linux ish stoli.
+
+Windows yoki macOS kabi Linux ish stoli yoki server versiyasini quyidagi sotuvchilardan xarid qilishingiz mumkin:
+
+- Ubuntu pro/korxona Linux ish stoli va serveri
+- SUSE korxona Linuxi.
+- Red Hat korxona Linux
+
+
+
+
+
+
+
+
