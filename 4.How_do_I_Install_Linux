@@ -1,1 +1,28 @@
 Linuxni qanday o'rnataman
+
+
+Siz Linux yadrosi nima ekanligini, Linux distributivlari va zavq va foyda uchun Linuxni qayerdan yuklab olishni bilasiz. Keling, Linuxni qanday o'rnatishni ko'rib chiqaylik, chunki busiz siz undan foydalana olmaysiz va Linux ostida Bash skriptini o'rgana olmaysiz.
+
+
+Linuxni qanday o'rnataman?
+
+
+Yuklanadigan USB qalam yarating (tayoq)
+
+
+Linux ish stoli yoki serverini o'rnatish uchun o'rnatish muhitini yaratish uchun yuklab olingan ISO CD/DVD tasviringizni USB qalam diskiga (USB flesh-disk sifatida ham tanilgan) yozishingiz kerak. Ilg'or foydalanuvchilar ISO tasvirlarini yozish uchun har doim dd buyrug'idan foydalanishlari mumkin. Biroq, yangi foydalanuvchilarga balenaEtcher deb nomlangan dasturdan foydalanish tavsiya etiladi . U Linux, macOS va Windows operatsion tizimlarida ishlaydi.
+
+
+Linuxni o'rnatish uchun odatiy qadamlar
+
+
+1. Linux ISO CD yoki DVD-ni yuklab oling
+2. Ushbu CD/DVDni USB qalam diskingizga yoki DVD-ga yozing
+3. Barcha mavjud ma'lumotlarni zaxiralang. Ushbu bosqichni o'tkazib yubormang.
+4. Ba'zi Linux distributivlari mavjud Windows bo'limining o'lchamini o'zgartirish orqali ikki tomonlama yuklashga imkon beradi.
+5. Keyin, kompyuterni qayta ishga tushiring.
+6. BIOS sozlamalariga o'ting va USB yoki DVD diskidan yuklashni yoqing
+7. USB qalam yoki DVD-ni joylashtiring
+8. Keyin USB qalam/DVD dan yuklashni boshlang
+9. Ekranda Linux o'rnatuvchisi ochiladi
+10. Ekrandagi ko'rsatmalarga amal qilishingiz kerak
